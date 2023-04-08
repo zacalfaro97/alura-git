@@ -1,0 +1,8 @@
+D:\C#\Curso-Chsarp\5-CaracteresYTextos\bin\Debug\5-CaracteresYTextos.exe.config
+D:\C#\Curso-Chsarp\5-CaracteresYTextos\bin\Debug\5-CaracteresYTextos.exe
+D:\C#\Curso-Chsarp\5-CaracteresYTextos\bin\Debug\5-CaracteresYTextos.pdb
+D:\C#\Curso-Chsarp\5-CaracteresYTextos\obj\Debug\5-CaracteresYTextos.csproj.AssemblyReference.cache
+D:\C#\Curso-Chsarp\5-CaracteresYTextos\obj\Debug\5-CaracteresYTextos.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso-Chsarp\5-CaracteresYTextos\obj\Debug\5-CaracteresYTextos.csproj.CoreCompileInputs.cache
+D:\C#\Curso-Chsarp\5-CaracteresYTextos\obj\Debug\5-CaracteresYTextos.exe
+D:\C#\Curso-Chsarp\5-CaracteresYTextos\obj\Debug\5-CaracteresYTextos.pdb

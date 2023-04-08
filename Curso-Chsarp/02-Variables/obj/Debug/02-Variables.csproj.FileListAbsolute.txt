@@ -1,0 +1,8 @@
+D:\C#\Curso-Chsarp\02-Variables\bin\Debug\02-Variables.exe.config
+D:\C#\Curso-Chsarp\02-Variables\bin\Debug\02-Variables.exe
+D:\C#\Curso-Chsarp\02-Variables\bin\Debug\02-Variables.pdb
+D:\C#\Curso-Chsarp\02-Variables\obj\Debug\02-Variables.csproj.AssemblyReference.cache
+D:\C#\Curso-Chsarp\02-Variables\obj\Debug\02-Variables.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso-Chsarp\02-Variables\obj\Debug\02-Variables.csproj.CoreCompileInputs.cache
+D:\C#\Curso-Chsarp\02-Variables\obj\Debug\02-Variables.exe
+D:\C#\Curso-Chsarp\02-Variables\obj\Debug\02-Variables.pdb

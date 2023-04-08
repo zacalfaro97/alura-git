@@ -1,0 +1,8 @@
+D:\C#\Curso-Chsarp\PruebaCondicional2\bin\Debug\PruebaCondicional2.exe.config
+D:\C#\Curso-Chsarp\PruebaCondicional2\bin\Debug\PruebaCondicional2.exe
+D:\C#\Curso-Chsarp\PruebaCondicional2\bin\Debug\PruebaCondicional2.pdb
+D:\C#\Curso-Chsarp\PruebaCondicional2\obj\Debug\PruebaCondicional2.csproj.AssemblyReference.cache
+D:\C#\Curso-Chsarp\PruebaCondicional2\obj\Debug\PruebaCondicional2.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso-Chsarp\PruebaCondicional2\obj\Debug\PruebaCondicional2.csproj.CoreCompileInputs.cache
+D:\C#\Curso-Chsarp\PruebaCondicional2\obj\Debug\PruebaCondicional2.exe
+D:\C#\Curso-Chsarp\PruebaCondicional2\obj\Debug\PruebaCondicional2.pdb

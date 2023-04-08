@@ -1,0 +1,8 @@
+D:\C#\Curso-Chsarp\06-TipoDatoCaracter\bin\Debug\06-TipoDatoCaracter.exe.config
+D:\C#\Curso-Chsarp\06-TipoDatoCaracter\bin\Debug\06-TipoDatoCaracter.exe
+D:\C#\Curso-Chsarp\06-TipoDatoCaracter\bin\Debug\06-TipoDatoCaracter.pdb
+D:\C#\Curso-Chsarp\06-TipoDatoCaracter\obj\Debug\06-TipoDatoCaracter.csproj.AssemblyReference.cache
+D:\C#\Curso-Chsarp\06-TipoDatoCaracter\obj\Debug\06-TipoDatoCaracter.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso-Chsarp\06-TipoDatoCaracter\obj\Debug\06-TipoDatoCaracter.csproj.CoreCompileInputs.cache
+D:\C#\Curso-Chsarp\06-TipoDatoCaracter\obj\Debug\06-TipoDatoCaracter.exe
+D:\C#\Curso-Chsarp\06-TipoDatoCaracter\obj\Debug\06-TipoDatoCaracter.pdb

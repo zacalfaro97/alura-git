@@ -1,0 +1,8 @@
+D:\C#\Curso-Chsarp\13-EstructuraRepeticionPara\bin\Debug\13-EstructuraRepeticionPara.exe.config
+D:\C#\Curso-Chsarp\13-EstructuraRepeticionPara\bin\Debug\13-EstructuraRepeticionPara.exe
+D:\C#\Curso-Chsarp\13-EstructuraRepeticionPara\bin\Debug\13-EstructuraRepeticionPara.pdb
+D:\C#\Curso-Chsarp\13-EstructuraRepeticionPara\obj\Debug\13-EstructuraRepeticionPara.csproj.AssemblyReference.cache
+D:\C#\Curso-Chsarp\13-EstructuraRepeticionPara\obj\Debug\13-EstructuraRepeticionPara.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso-Chsarp\13-EstructuraRepeticionPara\obj\Debug\13-EstructuraRepeticionPara.csproj.CoreCompileInputs.cache
+D:\C#\Curso-Chsarp\13-EstructuraRepeticionPara\obj\Debug\13-EstructuraRepeticionPara.exe
+D:\C#\Curso-Chsarp\13-EstructuraRepeticionPara\obj\Debug\13-EstructuraRepeticionPara.pdb

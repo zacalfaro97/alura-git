@@ -1,0 +1,8 @@
+D:\C#\Curso-Chsarp\07-TipoDatoTexto\bin\Debug\07-TipoDatoTexto.exe.config
+D:\C#\Curso-Chsarp\07-TipoDatoTexto\bin\Debug\07-TipoDatoTexto.exe
+D:\C#\Curso-Chsarp\07-TipoDatoTexto\bin\Debug\07-TipoDatoTexto.pdb
+D:\C#\Curso-Chsarp\07-TipoDatoTexto\obj\Debug\07-TipoDatoTexto.csproj.AssemblyReference.cache
+D:\C#\Curso-Chsarp\07-TipoDatoTexto\obj\Debug\07-TipoDatoTexto.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso-Chsarp\07-TipoDatoTexto\obj\Debug\07-TipoDatoTexto.csproj.CoreCompileInputs.cache
+D:\C#\Curso-Chsarp\07-TipoDatoTexto\obj\Debug\07-TipoDatoTexto.exe
+D:\C#\Curso-Chsarp\07-TipoDatoTexto\obj\Debug\07-TipoDatoTexto.pdb

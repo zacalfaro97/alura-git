@@ -1,0 +1,8 @@
+D:\C#\Curso-Chsarp\09-TrabjandoConCondiciones\bin\Debug\09-TrabjandoConCondiciones.exe.config
+D:\C#\Curso-Chsarp\09-TrabjandoConCondiciones\bin\Debug\09-TrabjandoConCondiciones.exe
+D:\C#\Curso-Chsarp\09-TrabjandoConCondiciones\bin\Debug\09-TrabjandoConCondiciones.pdb
+D:\C#\Curso-Chsarp\09-TrabjandoConCondiciones\obj\Debug\09-TrabjandoConCondiciones.csproj.AssemblyReference.cache
+D:\C#\Curso-Chsarp\09-TrabjandoConCondiciones\obj\Debug\09-TrabjandoConCondiciones.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso-Chsarp\09-TrabjandoConCondiciones\obj\Debug\09-TrabjandoConCondiciones.csproj.CoreCompileInputs.cache
+D:\C#\Curso-Chsarp\09-TrabjandoConCondiciones\obj\Debug\09-TrabjandoConCondiciones.exe
+D:\C#\Curso-Chsarp\09-TrabjandoConCondiciones\obj\Debug\09-TrabjandoConCondiciones.pdb

@@ -1,0 +1,8 @@
+D:\C#\CreandoVariables\bin\Debug\CreandoVariables.exe.config
+D:\C#\CreandoVariables\bin\Debug\CreandoVariables.exe
+D:\C#\CreandoVariables\bin\Debug\CreandoVariables.pdb
+D:\C#\CreandoVariables\obj\Debug\CreandoVariables.csproj.AssemblyReference.cache
+D:\C#\CreandoVariables\obj\Debug\CreandoVariables.csproj.SuggestedBindingRedirects.cache
+D:\C#\CreandoVariables\obj\Debug\CreandoVariables.csproj.CoreCompileInputs.cache
+D:\C#\CreandoVariables\obj\Debug\CreandoVariables.exe
+D:\C#\CreandoVariables\obj\Debug\CreandoVariables.pdb

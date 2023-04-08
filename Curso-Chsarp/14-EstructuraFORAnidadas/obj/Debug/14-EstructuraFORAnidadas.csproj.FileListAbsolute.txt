@@ -1,0 +1,8 @@
+D:\C#\Curso-Chsarp\14-EstructuraFORAnidadas\bin\Debug\14-EstructuraFORAnidadas.exe.config
+D:\C#\Curso-Chsarp\14-EstructuraFORAnidadas\bin\Debug\14-EstructuraFORAnidadas.exe
+D:\C#\Curso-Chsarp\14-EstructuraFORAnidadas\bin\Debug\14-EstructuraFORAnidadas.pdb
+D:\C#\Curso-Chsarp\14-EstructuraFORAnidadas\obj\Debug\14-EstructuraFORAnidadas.csproj.AssemblyReference.cache
+D:\C#\Curso-Chsarp\14-EstructuraFORAnidadas\obj\Debug\14-EstructuraFORAnidadas.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso-Chsarp\14-EstructuraFORAnidadas\obj\Debug\14-EstructuraFORAnidadas.csproj.CoreCompileInputs.cache
+D:\C#\Curso-Chsarp\14-EstructuraFORAnidadas\obj\Debug\14-EstructuraFORAnidadas.exe
+D:\C#\Curso-Chsarp\14-EstructuraFORAnidadas\obj\Debug\14-EstructuraFORAnidadas.pdb

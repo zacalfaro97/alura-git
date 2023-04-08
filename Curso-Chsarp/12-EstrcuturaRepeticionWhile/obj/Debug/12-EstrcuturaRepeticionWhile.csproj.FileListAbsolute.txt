@@ -1,0 +1,8 @@
+D:\C#\Curso-Chsarp\12-EstrcuturaRepeticionWhile\bin\Debug\12-EstrcuturaRepeticionWhile.exe.config
+D:\C#\Curso-Chsarp\12-EstrcuturaRepeticionWhile\bin\Debug\12-EstrcuturaRepeticionWhile.exe
+D:\C#\Curso-Chsarp\12-EstrcuturaRepeticionWhile\bin\Debug\12-EstrcuturaRepeticionWhile.pdb
+D:\C#\Curso-Chsarp\12-EstrcuturaRepeticionWhile\obj\Debug\12-EstrcuturaRepeticionWhile.csproj.AssemblyReference.cache
+D:\C#\Curso-Chsarp\12-EstrcuturaRepeticionWhile\obj\Debug\12-EstrcuturaRepeticionWhile.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso-Chsarp\12-EstrcuturaRepeticionWhile\obj\Debug\12-EstrcuturaRepeticionWhile.csproj.CoreCompileInputs.cache
+D:\C#\Curso-Chsarp\12-EstrcuturaRepeticionWhile\obj\Debug\12-EstrcuturaRepeticionWhile.exe
+D:\C#\Curso-Chsarp\12-EstrcuturaRepeticionWhile\obj\Debug\12-EstrcuturaRepeticionWhile.pdb

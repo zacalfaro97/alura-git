@@ -1,0 +1,7 @@
+using System;
+
+class Programa{
+	static void Main(args[]){
+		Console.Writeline("Hola Mundo");
+	}
+}

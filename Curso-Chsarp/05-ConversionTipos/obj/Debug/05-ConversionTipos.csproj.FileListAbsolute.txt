@@ -1,0 +1,8 @@
+D:\C#\Curso-Chsarp\05-ConversionTipos\obj\Debug\05-ConversionTipos.csproj.AssemblyReference.cache
+D:\C#\Curso-Chsarp\05-ConversionTipos\obj\Debug\05-ConversionTipos.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso-Chsarp\05-ConversionTipos\obj\Debug\05-ConversionTipos.csproj.CoreCompileInputs.cache
+D:\C#\Curso-Chsarp\05-ConversionTipos\bin\Debug\05-ConversionTipos.exe.config
+D:\C#\Curso-Chsarp\05-ConversionTipos\bin\Debug\05-ConversionTipos.exe
+D:\C#\Curso-Chsarp\05-ConversionTipos\bin\Debug\05-ConversionTipos.pdb
+D:\C#\Curso-Chsarp\05-ConversionTipos\obj\Debug\05-ConversionTipos.exe
+D:\C#\Curso-Chsarp\05-ConversionTipos\obj\Debug\05-ConversionTipos.pdb

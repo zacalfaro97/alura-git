@@ -1,0 +1,8 @@
+D:\C#\Curso-Chsarp\08-VariablesQueGuardanValores\bin\Debug\08-VariablesQueGuardanValores.exe.config
+D:\C#\Curso-Chsarp\08-VariablesQueGuardanValores\bin\Debug\08-VariablesQueGuardanValores.exe
+D:\C#\Curso-Chsarp\08-VariablesQueGuardanValores\bin\Debug\08-VariablesQueGuardanValores.pdb
+D:\C#\Curso-Chsarp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.csproj.AssemblyReference.cache
+D:\C#\Curso-Chsarp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso-Chsarp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.csproj.CoreCompileInputs.cache
+D:\C#\Curso-Chsarp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.exe
+D:\C#\Curso-Chsarp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.pdb

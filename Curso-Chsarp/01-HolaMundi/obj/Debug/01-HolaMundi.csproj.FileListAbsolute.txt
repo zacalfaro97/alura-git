@@ -1,0 +1,8 @@
+D:\C#\Curso-Chsarp\01-HolaMundi\bin\Debug\01-HolaMundi.exe.config
+D:\C#\Curso-Chsarp\01-HolaMundi\bin\Debug\01-HolaMundi.exe
+D:\C#\Curso-Chsarp\01-HolaMundi\bin\Debug\01-HolaMundi.pdb
+D:\C#\Curso-Chsarp\01-HolaMundi\obj\Debug\01-HolaMundi.csproj.AssemblyReference.cache
+D:\C#\Curso-Chsarp\01-HolaMundi\obj\Debug\01-HolaMundi.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso-Chsarp\01-HolaMundi\obj\Debug\01-HolaMundi.csproj.CoreCompileInputs.cache
+D:\C#\Curso-Chsarp\01-HolaMundi\obj\Debug\01-HolaMundi.exe
+D:\C#\Curso-Chsarp\01-HolaMundi\obj\Debug\01-HolaMundi.pdb

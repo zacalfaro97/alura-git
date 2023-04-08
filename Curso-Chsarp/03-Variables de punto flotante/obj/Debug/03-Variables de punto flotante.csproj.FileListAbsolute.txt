@@ -1,0 +1,8 @@
+D:\C#\Curso-Chsarp\03-Variables de punto flotante\bin\Debug\03-Variables de punto flotante.exe.config
+D:\C#\Curso-Chsarp\03-Variables de punto flotante\bin\Debug\03-Variables de punto flotante.exe
+D:\C#\Curso-Chsarp\03-Variables de punto flotante\bin\Debug\03-Variables de punto flotante.pdb
+D:\C#\Curso-Chsarp\03-Variables de punto flotante\obj\Debug\03-Variables de punto flotante.csproj.AssemblyReference.cache
+D:\C#\Curso-Chsarp\03-Variables de punto flotante\obj\Debug\03-Variables de punto flotante.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso-Chsarp\03-Variables de punto flotante\obj\Debug\03-Variables de punto flotante.csproj.CoreCompileInputs.cache
+D:\C#\Curso-Chsarp\03-Variables de punto flotante\obj\Debug\03-Variables de punto flotante.exe
+D:\C#\Curso-Chsarp\03-Variables de punto flotante\obj\Debug\03-Variables de punto flotante.pdb
